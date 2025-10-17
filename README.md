@@ -2,7 +2,7 @@
 
 Projeto de **visão computacional interativa** que permite **controlar o mouse com a mão**, utilizando **MediaPipe**, **OpenCV** e **PyAutoGUI**.
 
-## Exemplo:
+### Exemplo:
 - Cursor acompanha o movimento do dedo indicador.
 - Clique esquerdo -> Polegar + Indicador.
 - Clique Direito -> Médio + Indicador.
